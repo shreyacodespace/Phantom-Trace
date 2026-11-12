@@ -1,3 +1,4 @@
+
 # PHANTOM TRACE
 Next.js 14 · TypeScript · Tailwind · Cytoscape · ECharts · Neon Postgres. All demo data is synthetic.
 
@@ -28,3 +29,6 @@ Create a free Aura instance at console.neo4j.io, then set NEO4J_URI (neo4j+s://.
 
 ## ML
 lib/ml.ts is an Isolation Forest written from scratch and trained on a synthetic baseline of ordinary decoy sessions. It adds an anomaly score per source in Deception Lab and raises a finding only when no rule fired. It is a demo model and gets better only with real session data.
+=======
+# Phantom-Trace
+>>>>>>> f1a5b367fe70310c31ef0285c4c65ca338f4171c
